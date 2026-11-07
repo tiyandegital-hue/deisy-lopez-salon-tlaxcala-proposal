@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deisy-lopez-salon-tlaxcala-proposal.vercel.app/sitemap.xml
